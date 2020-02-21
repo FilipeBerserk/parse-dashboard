@@ -1,9 +1,9 @@
 {
   "apps": [
     {
-      "serverURL": "http://localhost:1338/parse",
-      "appId": "hello",
-      "masterKey": "world",
+      "serverURL": "http://prescricao1.herokuapp.com/parse",
+      "appId": "appIdprescricao2019",
+      "masterKey": "masterKeyprescricao2019",
       "appName": "",
       "iconName": "",
       "primaryBackgroundColor": "",
